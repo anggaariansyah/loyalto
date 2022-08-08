@@ -7,4 +7,6 @@ Soal Teori
 - untuk database Mysql karena lebih ringan dan enak dimengerti
 - untuk transkasi pakai cahce redis
 
+untuk soal praktek ada di dadu.go
+
 # loyalto
